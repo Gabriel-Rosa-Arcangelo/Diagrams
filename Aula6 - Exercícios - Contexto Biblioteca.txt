@@ -1,0 +1,5 @@
+Crie um diagrama de classes contendo 3 classes dentro do contexto
+de uma biblioteca e relacione estas 3 classes através da relação
+do tipo associativa.
+
+Cada classe deverá ter pelo menos 5 atributos
